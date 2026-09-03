@@ -777,7 +777,7 @@ section .container {
   background: rgba(0, 0, 0, 0.6);
 }
 
-.portfolio .portfolio-wrap img {
+.portfolio .portfolio-wrap .project-img {
   width: 100%;
   height: 280px;
   object-fit: cover;
